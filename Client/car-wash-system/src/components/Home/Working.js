@@ -27,7 +27,7 @@ function Working() {
   const classes = useStyles();
   return (
     <div className="container">
-      <h1>How WYPE Works?</h1>
+      <h1>How VehiCare Works?</h1>
 
       <Timeline align="alternate">
         <TimelineItem>
@@ -60,7 +60,9 @@ function Working() {
                 Select The Perfect Car Service
               </Typography>
               <br />
-              <Typography>From Wype's broad portfolio of Services</Typography>
+              <Typography>
+                From VehiCare's broad portfolio of Services
+              </Typography>
             </Paper>
           </TimelineContent>
         </TimelineItem>

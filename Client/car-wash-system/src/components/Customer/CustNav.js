@@ -26,8 +26,8 @@ function CustNav() {
       <a href="/cust_home">
         <img
           className="nav__logo"
-          src="https://image4.owler.com/logo/wype_owler_20160516_093705_original.jpg"
-          alt="WYPE LOGO"
+          src="https://image4.owler.com/logo/VehiCare_owler_20160516_093705_original.jpg"
+          alt="wype LOGO"
         />
       </a>
       <div

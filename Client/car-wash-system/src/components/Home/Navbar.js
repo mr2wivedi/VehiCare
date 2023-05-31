@@ -23,8 +23,8 @@ function Navbar() {
       <a href="/">
         <img
           className="nav__logo"
-          src="https://image4.owler.com/logo/wype_owler_20160516_093705_original.jpg"
-          alt="WYPE LOGO"
+          src="./images/VehiCare.png"
+          alt="wype LOGO"
         />
       </a>
       <div

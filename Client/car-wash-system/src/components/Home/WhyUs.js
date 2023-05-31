@@ -11,7 +11,7 @@ function WhyUs() {
     <div className="component">
       <div className="banner">
         <div>
-          <img className="banner__image" src={banner_2} alt="WYPE LOGO" />
+          <img className="banner__image" src={banner_2} alt="wype LOGO" />
         </div>
         <div className="banner__contentRight">
           <br /> <br /> <br />
@@ -25,7 +25,7 @@ function WhyUs() {
       </div>
 
       <hr />
-      <h1 className="banner__heading">The Wype Way</h1>
+      <h1 className="banner__heading">The VehiCare Way</h1>
       <h4 className="banner__feature">
         CONVENIENT • TRANSPARENT • QUALITY • RELIABLE
       </h4>
@@ -54,13 +54,13 @@ function WhyUs() {
           </p>
         </div>
         <div>
-          <img className="banner__image" src={banner_3} alt="WYPE LOGO" />
+          <img className="banner__image" src={banner_3} alt="wype LOGO" />
         </div>
       </div>
 
       <div className="banner">
         <div>
-          <img className="banner__image" src={banner_4} alt="WYPE LOGO" />
+          <img className="banner__image" src={banner_4} alt="wype LOGO" />
         </div>
         <div className="banner__contentRight">
           <h1 className="feature__heading">TRANSPARENT</h1>
@@ -108,7 +108,7 @@ function WhyUs() {
           </p>
         </div>
         <div>
-          <img className="banner__image" src={banner_5} alt="WYPE LOGO" />
+          <img className="banner__image" src={banner_5} alt="wype LOGO" />
         </div>
       </div>
     </div>
