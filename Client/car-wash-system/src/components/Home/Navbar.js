@@ -23,7 +23,7 @@ function Navbar() {
       <a href="/">
         <img
           className="nav__logo"
-          src="./images/VehiCare.png"
+          src={require("../../assets/images/VehiCare.jpg")}
           alt="wype LOGO"
         />
       </a>

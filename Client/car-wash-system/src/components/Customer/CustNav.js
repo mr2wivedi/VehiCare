@@ -26,7 +26,7 @@ function CustNav() {
       <a href="/cust_home">
         <img
           className="nav__logo"
-          src="https://image4.owler.com/logo/VehiCare_owler_20160516_093705_original.jpg"
+          src={require('../../assets/images/VehiCare.jpg')}
           alt="wype LOGO"
         />
       </a>
